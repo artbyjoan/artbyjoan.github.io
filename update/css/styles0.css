@@ -153,17 +153,17 @@ h6 {
   margin-left: 5px;
   padding-bottom: 5px;	
 }
-.small  {    height: 60px; overflow: hidden; }
+.small  {    height: 51px; overflow: hidden; }
 #toggle {    cursor: pointer;    color: #5a9352;    text-decoration: underline;	display: inline;	float: left;  }
-.small2  {    height: 60px;    overflow: hidden; }
+.small2  {    height: 51px;    overflow: hidden; }
 #toggle2 {    cursor: pointer;    color: #5a9352;    text-decoration: underline;	display: inline;	float: left; }
-.small3  {    height: 60px;    overflow: hidden; }
+.small3  {    height: 51px;    overflow: hidden; }
 #toggle3 {    cursor: pointer;    color: #5a9352;    text-decoration: underline;	display: inline;	float: left; }
-.small4  {    height: 40px;    overflow: hidden; }
+.small4  {    height: 51px;    overflow: hidden; }
 #toggle4 {    cursor: pointer;    color: #5a9352;    text-decoration: underline;	display: inline;	float: left; }
-.small5  {    height: 40px;    overflow: hidden; }
+.small5  {    height: 51px;    overflow: hidden; }
 #toggle5 {    cursor: pointer;    color: #5a9352;    text-decoration: underline;	display: inline;	float: left; }
-.small6  {    height: 40px;    overflow: hidden; }
+.small6  {    height: 51px;    overflow: hidden; }
 #toggle6 {    cursor: pointer;    color: #5a9352;    text-decoration: underline;	display: inline;	float: left; }
 
 .negativespace {
