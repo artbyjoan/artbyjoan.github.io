@@ -117,6 +117,10 @@ h4.dark {
   font-size: 1.1em;
 
 }
+h4.darker{
+  color: #585858;
+  font-size: 1.14em;
+}
 
 .darkbox {
   background-color: #fff3d4;
@@ -436,6 +440,9 @@ min-height: 500px;
   cursor: default;
 }
 
+.negativefooter {
+	height: 20px;
+}
 /*new media */
 
 		#container ul
@@ -894,7 +901,9 @@ h6 {
 
 
 
-
+.negativefooter {
+	min-height: 100px;
+}
 
 		@media only screen and (max-width: 20em) /* 320 */
 		{
