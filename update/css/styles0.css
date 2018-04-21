@@ -807,7 +807,7 @@ body {
 /* bigger postit letters */
 
 h1 {
-bottom-margin:20px;
+margin-bottom:20px;
 	}	
 	h4.dark {
   color: #585858;
