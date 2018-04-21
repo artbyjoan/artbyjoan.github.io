@@ -132,7 +132,7 @@ h4.darker{
 
 h4.sub {
   color: #8a9f87;
-  padding-bottom: 15px;
+  padding-bottom: 5px;
 }
 
 h5 {
@@ -809,12 +809,14 @@ body {
 h1 {
 margin-bottom:20px;
 	}	
-	h4.dark {
+h4.dark {
   color: #585858;
   font-size: 1.3em;
-
 }
-
+h4.sub {
+  padding-bottom: 15px;
+}
+	
 h6 {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 1.3em;
