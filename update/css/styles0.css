@@ -52,7 +52,7 @@ h1 {
   font-size: 2.5em;
   line-height: 1.5em;
   letter-spacing: -0.05em;
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   padding: .1em 0;
   color: #444;
 	position: relative;
@@ -806,6 +806,9 @@ body {
 	
 /* bigger postit letters */
 
+h1 {
+bottom-margin:20px;
+	}	
 	h4.dark {
   color: #585858;
   font-size: 1.3em;
