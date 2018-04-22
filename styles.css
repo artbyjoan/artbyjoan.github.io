@@ -55,43 +55,43 @@ strong { font-weight: bold; }
   line-height: 1.5em;
   color: #fff;
   letter-spacing: -0.05em;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   margin-left: 15px;
   padding: .1em 0;
-  padding-top: 60%;
+  padding-top: 45%;
 	text-shadow: 0 0 3px #fff;
 }
 
 .msubtlefp {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 1.5em;
+  font-size: 1.3em;
   line-height: 1.5em;
   color: #fff;
   letter-spacing: -0.05em;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   margin-left: 15px;
-  padding: .1em 0;
-
-	opacity: 0.3;
+  padding: 0em 0;
+  opacity: 0.3;
 }
 .mbuttonfpwrapper {
 	width: 100%;
 	height: 80px;
 	position: relative;
-	text-align: center;
+	text-align: left;
 	display: inline-block;
 }
 a.mbuttonfp {
-  color: #5a9352;
+  color: #fff;
   font-size: 1.5em;
+  font-family: HelveticaNeue-Light;
   padding: 12px;
-	padding-left: 40px;
-	padding-right: 40px;
-  tex-align: center;
-	border-radius: 12px;
-	border: 0.1em solid #5a9352;
-	position: relative
-
+  vertical-align: middle;
+  padding-left: 40px;
+  padding-right: 40px;
+  tex-align: left;
+  margin-left: 15px;
+  border-radius: 12px;
+  border: 0.05em solid #f0f0f0;
 }
 
 .mbuttonfp a:hover {
@@ -356,7 +356,9 @@ a { color: #5a9352; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .center { display: block; text-align: center; }
+.fa.fa-angle-double-right {
 
+padding: 0.3em; }
 
 
 /** reset lightbox position **/
@@ -383,7 +385,8 @@ a:hover { text-decoration: underline; }
 background-color: #000;
 	background-size: auto 100%;
 	background-position: center;
-min-height: 800px;
+min-height: 100vh;
+overflow: hidden;
 
 }
 
